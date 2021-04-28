@@ -70,5 +70,9 @@ def randomNick():
     print(thisNick)
     return thisNick
 
+def randomTest():
+    thisNumber = 1+1
+    return thisNumber
+
 
 
